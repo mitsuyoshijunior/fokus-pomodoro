@@ -13,3 +13,7 @@
   <li>HTML</li>
   <li>JavaScript</li>
 </ul>
+<br>
+<h2>Acesse o projeto</h2>
+<p>Fique a vontade para conhecer e utilizar o Fokus.</p>
+https://fokus-pomodoro-lyart.vercel.app/
